@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "浮世離れ",
+  "base_artist": "Trooper Salute",
+  "createdAt": "2025-12-18T15:59:36.767694Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "浮世離れ",
+      "artist": "Masato Coda",
+      "has_synced": false,
+      "path": "select/01_浮世離れ_Masato_Coda.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "浮世離れ (M-7)",
+      "artist": "甲田雅人",
+      "has_synced": false,
+      "path": "select/02_浮世離れ_(M-7)_甲田雅人.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "浮世離れ",
+      "artist": "甲田雅人",
+      "has_synced": false,
+      "path": "select/03_浮世離れ_甲田雅人.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "浮世離れ",
+      "artist": "Kouda, Masato",
+      "has_synced": false,
+      "path": "select/04_浮世離れ_Kouda,_Masato.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "浮世離れ (M-7)",
+      "artist": "Kouda, Masato",
+      "has_synced": false,
+      "path": "select/05_浮世離れ_(M-7)_Kouda,_Masato.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "浮世離れ",
+      "artist": "Masato Koda",
+      "has_synced": false,
+      "path": "select/06_浮世離れ_Masato_Koda.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "浮世離れ",
+      "artist": "Trooper Salute",
+      "has_synced": false,
+      "path": "select/pl_01_浮世離れ_Trooper_Salute.txt"
+    }
+  ]
+}
